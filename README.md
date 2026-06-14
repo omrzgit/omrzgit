@@ -8,9 +8,9 @@ Pursuing Microsoft SC-900 and AWS certifications, BSCP, CCNA, OSCP etc,
 Whilst finishing up my final year projectan IoT-based energy monitoring system with AI recommendations built on top.
 
 # 🎯 Rapid Fire:
-💼 I'm currently working on: 🔋 IoT Energy Monitor: real-time appliance tracking with AI-powered usage recommendations (FYP)  
-🌱 I'm currently learning: 🛡️ Incident response, threat intelligence, vulnerability management & cloud security  
-💬 Ask me about: 🐛 Anything related computers especially integrations, web security, automation scripts, honeypots etc
+💼 I'm currently working on: 🔋 IoT Energy Monitor: real-time appliance tracking with AI-powered usage recommendations (FYP) \
+🌱 I'm currently learning: 🛡️ Incident response, threat intelligence, vulnerability management & cloud security \
+💬 Ask me about: 🐛 Anything related computers especially integrations, web security, automation scripts, honeypots etc \
 ⚡ Fun fact: I am a Linux user but I have to work with Windows 11 and I hate it.
 
 # 🔨 Projects:
