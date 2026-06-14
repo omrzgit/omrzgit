@@ -1,6 +1,7 @@
 Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Omer.
 =============================================================================================================================
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/omer-11)
+
 Final-year Computer Science student at SZABIST with a thing for breaking things, securing them, and maybe building tools that do both. Started out hosting websites and securing servers then realised the security side was where all the interesting problems lived. Now I spend my time learning and experimenting with APIs, automating whatever I can, and slowly working my way deeper into the cybersecurity rabbit hole.
 
 Pursuing Microsoft SC-900 and AWS certifications, BSCP, CCNA, OSCP etc,
