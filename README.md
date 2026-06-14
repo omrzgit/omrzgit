@@ -1,4 +1,4 @@
-Hi, my name is Omer ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Omer.
 =============================================================================================================================
 
 Final-year Computer Science student at SZABIST with a thing for breaking things, securing them, and building tools that do both. Started out hosting websites and recovering hacked servers — then realised the security side was where all the interesting problems lived. Now I spend my time building security tools, experimenting with APIs, automating whatever I can, and slowly working my way deeper into the cybersecurity rabbit hole.
