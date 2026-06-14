@@ -14,7 +14,7 @@ Whilst finishing up my final year projectan IoT-based energy monitoring system w
 ⚡ Fun fact: I am a Linux user but I have to work with Windows 11 and I hate it.
 
 # 🔨 Projects:
-- 🎣 **[PhishFilter](https://github.com/omrzgit/PhishFilter)**: Python tool that detects phishing attempts by extracting URLs via regex and scanning them across 70+ AV engines using the VirusTotal API. Analyses sender domains for suspicious keywords and generates SAFE/SUSPICIOUS/MALICIOUS verdict reports.
+- 🎣 **Phish-Filter**: Python tool that detects phishing attempts by extracting URLs via regex and scanning them across 70+ AV engines using the VirusTotal API. Analyses sender domains for suspicious keywords and generates SAFE/SUSPICIOUS/MALICIOUS verdict reports.
 - 🤖 **Restaurant Chatbot**: WhatsApp-integrated ordering bot built with Node.js, Express, Google Sheets API, and Railway.
 - ♟️ **Chess Game**: Fully playable Chess in C++ with game logic from scratch.
 - 🔌 **IoT Energy Monitor (FYP)**: Hardware + mobile/web app for real-time energy monitoring with AI-driven predictions and alerts.
