@@ -1,15 +1,17 @@
 ## Hi, 👋 My name is Omer.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/omer-11)
+[Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ozgit@proton.me)
 
 Final-year Computer Science student at SZABIST with a thing for breaking things, securing them, and maybe building tools that do both. Started out hosting websites and securing servers then realized the security side was where all the interesting problems lived. Now I spend my time learning and experimenting with APIs, automating whatever I can, and slowly working my way deeper into the cybersecurity rabbit hole.
-Pursuing Microsoft SC-900 and AWS certifications, BSCP, CCNA, OSCP etc,
-Whilst finishing up my final year project an IoT-based energy monitoring system with AI recommendations built on top.
+Currently pursuing Microsoft SC-900 and AWS certifications etc.
+Whilst finishing up my final year project, an IoT-based energy monitoring system with AI recommendations built on top.
 
 ### 🎯 Rapid Fire:
-💼 I'm currently working on: 🔋 IoT Energy Monitor: real-time appliance tracking with AI-powered usage recommendations (FYP) because I like to explore whatever seems impossible. \
+🟢 Open to: Entry-level IT / Cybersecurity roles (Internship or Full-time) \
+💼 Recently shipped: 🔋 IoT Energy Monitor: real-time appliance tracking with AI-powered usage recommendations (FYP) \
 🌱 I'm currently learning: 🛡️ Incident response, threat intelligence, vulnerability management & cloud security \
-💬 Ask me about: 🐛 Anything related computers especially integrations, web security, automation scripts, honeypots etc \
-⚡ Fun fact: I am a Linux user but I have to work with Windows 11 and I hate it.
+💬 Ask me about: 🐛 Anything computer-related, especially integrations, web security, automation scripts, honeypots etc \
+⚡ Fun fact: I am a Linux user but I have to work with Windows 11 and I hate it, so far, btw did you check out the latest windows update that addressed 421 security vulnerabilities, including 37 remote code execution bugs.. 👀
 
 ### 🔨 Projects:
 - 🎣 **Phish-Filter**: Python script that identifies phishing attempts by extracting URLs via regex and scanning via VirusTotal API. Analyses sender domains for suspicious keywords and generates SAFE/SUSPICIOUS/MALICIOUS verdict reports. 
