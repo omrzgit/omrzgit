@@ -1,5 +1,5 @@
 ## Hi, 👋 My name is Omer.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/omer-11) \ [Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ozgit@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/omer-11) \ [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ozgit@proton.me)
 
 Final-year Computer Science student at SZABIST with a thing for breaking things, securing them, and maybe building tools that do both. Started out hosting websites and securing servers then realized the security side was where all the interesting problems lived. Now I spend my time learning and experimenting with APIs, automating whatever I can, and slowly working my way deeper into the cybersecurity rabbit hole.
 Currently pursuing Microsoft SC-900 and AWS certifications etc.
