@@ -6,7 +6,7 @@ Currently pursuing Microsoft SC-900 and AWS certifications etc.
 Whilst finishing up my final year project, an IoT-based energy monitoring system with AI recommendations built on top.
 
 ### 🎯 Rapid Fire:
-🟢 Open to: Entry-level IT / Cybersecurity roles (Internship or Full-time) \
+🟢 Open to: Entry-level Fullstack / Cybersecurity roles (Internship or Full-time) \
 💼 Recently shipped: 🔋 IoT Energy Monitor: real-time appliance tracking with AI-powered usage recommendations (FYP) \
 🌱 I'm currently learning: 🛡️ Incident response, threat intelligence, vulnerability management & cloud security \
 💬 Ask me about: 🐛 Anything computer-related, especially integrations, web security, automation scripts, honeypots etc \
