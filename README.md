@@ -19,12 +19,18 @@ Whilst finishing up my final year project, an IoT-based energy monitoring system
 - 🔌 **IoT Energy Monitor (FYP)**: Hardware + mobile/web app for real-time energy monitoring with AI-driven predictions and alerts.
 
 ### 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
+**Languages & Systems:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Burp Suite](https://img.shields.io/badge/burpsuite-%23FF6633.svg?style=plastic&logo=burpsuite&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=plastic&logo=wireshark&logoColor=white)
+**Backend, Web & AI Workflows:**  
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=plastic&logo=n8n&logoColor=white)
+
+**Security & SecOps:**  
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=plastic&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=plastic&logo=burpsuite&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=plastic&logo=virustotal&logoColor=white)
+
+**Cloud, Databases & DevOps:**  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
 <!-- ### 📊 GitHub Stats:--!>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omrzgit&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)--!>
