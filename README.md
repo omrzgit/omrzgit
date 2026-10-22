@@ -1,38 +1,71 @@
-## Hi, 👋 My name is Omer.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/omer-11) [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:omrzgit@proton.me) [![Website](https://img.shields.io/badge/Website-oomer.dev-4285F4?style=plastic&logo=googlechrome&logoColor=white)](https://oomer.dev)
+## Hi there, I'm Omer 👋
 
-Final-year Computer Science student at SZABIST with a thing for breaking things, securing them, and maybe building tools that do both. Started out hosting websites and securing servers then realized the security side was where all the interesting problems lived. Now I spend my time learning and experimenting with APIs, automating whatever I can, and slowly working my way deeper into the cybersecurity rabbit hole.
-Currently pursuing Microsoft SC-900 and AWS certifications etc.
-Whilst finishing up my final year project, an IoT-based energy monitoring system with AI recommendations built on top.
+[![Website](https://img.shields.io/badge/Website-oomer.dev-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://oomer.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omer_Muneer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omer-11)
+[![Email](https://img.shields.io/badge/Email-work4omer%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:work4omer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-omrzgit-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omrzgit)
 
-### 🎯 Rapid Fire:
-🟢 Open to: Entry-level Fullstack / Cybersecurity roles (Internship or Full-time) \
-💼 Recently shipped: 🔋 IoT Energy Monitor: real-time appliance tracking with AI-powered usage recommendations (FYP) \
-🌱 I'm currently learning: 🛡️ Incident response, threat intelligence, vulnerability management & cloud security \
-💬 Ask me about: 🐛 Anything computer-related, especially integrations, web security, automation scripts, honeypots etc \
-⚡ Fun fact: I am a Linux user but I have to work with Windows 11 and I hate it, so far, btw did you check out the latest windows update that addressed 421 security vulnerabilities, including 37 remote code execution bugs.. Android also had around the same number of fixes in its recent update.👀
+Final-year Computer Science student at **SZABIST**, building at the intersection of **practical cybersecurity, secure backend engineering, and agentic AI workflows**.
 
-🌐 **Portfolio & Interactive Demos**: [oomer.dev](https://oomer.dev)
+I started out managing hosting environments and recovering compromised servers, which pulled me straight into defensive security and threat triage. Today, I spend my time building authenticated REST APIs, automated threat analysis tools, and scalable automation pipelines.
 
-### 🔨 Projects:
-- 🎣 **Phish-Filter**: Python script that identifies phishing attempts by extracting URLs via regex and scanning via VirusTotal API. Analyses sender domains for suspicious keywords and generates SAFE/SUSPICIOUS/MALICIOUS verdict reports. 
-- 🤖 **Restaurant Chatbot**: WhatsApp-integrated ordering bot built with Node.js, Express, Google Sheets API, and Railway.
-- ♟️ **Chess Game**: Fully playable Chess in C++ with game logic from scratch.
-- 🔌 **IoT Energy Monitor (FYP)**: Hardware + mobile/web app for real-time energy monitoring with AI-driven predictions and alerts.
+---
 
-### 💻 Tech Stack:
+### ⚡ At a Glance:
+- 🔭 **Focus**: DevSecOps, Cloud Security (Azure), & Full-Stack Automation.
+- 🛠️ **Actively Pursuing**: Microsoft SC-900 (Security Operations Analyst) & Fortinet NSE.
+- 💼 **Open to**: Software Engineer, Backend Developer, and DevSecOps / Cybersecurity roles.
+- 🌐 **Portfolio & Interactive Demos**: [oomer.dev](https://oomer.dev)
+
+---
+
+### 🚀 Featured Projects:
+
+- 🛡️ **[PhishFilter](https://github.com/omrzgit/PhishFilter)**  
+  Automated phishing detection tool in Python. Extracts URLs from suspicious emails using regex and orchestrates multi-engine threat triage against 70+ antivirus engines via the VirusTotal API.
+
+- ⚡ **[Smart Energy Monitor (IoT + AI Capstone)](https://github.com/omrzgit)**  
+  Hardware-integrated cloud backend with authenticated REST APIs ingesting real-time device telemetry with anti-spoofing integrity validation and AI-assisted power usage predictions.
+
+- 💬 **[WhatsApp Restaurant Bot (AI Cafe Bot)](https://github.com/omrzgit/AI_Cafe_Bot)**  
+  Production-grade webhook bot built with Node.js/Express and Railway, featuring server-side rate limiting, input validation, and asynchronous order logging via Google Sheets API.
+
+- 🤖 **[n8n Workflows & Automation Pipelines](https://github.com/omrzgit/n8n-workflows)**  
+  Custom pipelines, lead routing, and automated webhook architectures built for scalable operations.
+
+- 🗂️ **[Tab Workspace Manager](https://github.com/omrzgit/tab-workspace-manager)**  
+  Lightweight productivity tool designed to categorize, persist, and streamline multi-context development workflows.
+
+---
+
+### 🛠️ Tech Stack:
 
 **Languages & Systems:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Backend, Web & AI Workflows:**  
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=plastic&logo=n8n&logoColor=white)
+**Backend, Cloud & Automation:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-**Security & SecOps:**  
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=plastic&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=plastic&logo=burpsuite&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=plastic&logo=virustotal&logoColor=white)
+**Security, Networking & Tools:**  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Cloud, Databases & DevOps:**  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+---
 
-<!-- ### 📊 GitHub Stats:--!>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omrzgit&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)--!>
+### 📊 GitHub Activity:
+![Omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omrzgit&show_icons=true&theme=tokyonight&hide_border=true)
