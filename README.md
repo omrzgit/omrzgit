@@ -12,6 +12,8 @@ Whilst finishing up my final year project, an IoT-based energy monitoring system
 💬 Ask me about: 🐛 Anything computer-related, especially integrations, web security, automation scripts, honeypots etc \
 ⚡ Fun fact: I am a Linux user but I have to work with Windows 11 and I hate it, so far, btw did you check out the latest windows update that addressed 421 security vulnerabilities, including 37 remote code execution bugs.. Android also had around the same number of fixes in its recent update.👀
 
+🌐 **Portfolio & Interactive Demos**: [oomer.dev](https://oomer.dev)
+
 ### 🔨 Projects:
 - 🎣 **Phish-Filter**: Python script that identifies phishing attempts by extracting URLs via regex and scanning via VirusTotal API. Analyses sender domains for suspicious keywords and generates SAFE/SUSPICIOUS/MALICIOUS verdict reports. 
 - 🤖 **Restaurant Chatbot**: WhatsApp-integrated ordering bot built with Node.js, Express, Google Sheets API, and Railway.
