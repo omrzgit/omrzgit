@@ -50,4 +50,8 @@ Whilst finishing up my final year project, an IoT-based energy monitoring system
 ---
 
 ### 📊 GitHub Activity:
-![Omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omrzgit&show_icons=true&theme=tokyonight&hide_border=true&hide_grade)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=omrzgit&show_icons=true&theme=tokyonight&hide_rank=true&hide_title=true" alt="GitHub Stats" height="195" /> 
+  <img src="https://streak-stats.demolab.com?user=omrzgit&theme=tokyonight&hide_border=false&hide_longest_streak=true" alt="GitHub Streak" height="165" />
+</p>
+ 
