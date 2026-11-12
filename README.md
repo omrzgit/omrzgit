@@ -51,7 +51,7 @@ Whilst finishing up my final year project, an IoT-based energy monitoring system
 
 ### 📊 GitHub Activity:
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omrzgit&theme=tokyonight" alt="GitHub Stats" height="195" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omrzgit&theme=tokyonight" alt="GitHub Stats" height="165" /> 
   <img src="https://streak-stats.demolab.com?user=omrzgit&theme=tokyonight&hide_border=false&hide_longest_streak=true" alt="GitHub Streak" height="165" />
 </p>
  
